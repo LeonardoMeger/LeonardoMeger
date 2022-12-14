@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working with C# <br>
- 🌱 I’m currently learning JavaScript
+🔭 I’m currently working with C# | DotNet <br>
+ 🌱 I’m currently learning JavaScript | TypeScript
  
  <div align="center">
   <a href="https://github.com/LeonardoMeger">
