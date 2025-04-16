@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working with C# | DotNet <br>
+🔭 I’m currently working with C# | DotNet | Angular <br>
  🌱 I’m currently learning JavaScript | TypeScript
  
  <div align="center">
